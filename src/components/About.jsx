@@ -110,7 +110,7 @@ const About = () => {
                     {description}
                 </p>
 
-                <a href="/English_Curriculum.pdf" download="" className="about__cv">
+                <a href="/Curriculum.pdf" download="" className="about__cv">
                     Download my curriculum &nbsp;
                     <i className="ti-file" />
                 </a>
